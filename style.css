@@ -2177,7 +2177,7 @@
                                                                                                                                                 }
                                                                                                                                                 .about img {
                                                                                                                                                     height: auto;
-                                                                                                                                                    width: 60%;
+                                                                                                                                                    width: 100%;
                                                                                                                                                     justify-content: center;
                                                                                                                                                 }
                                                                                                                                                 .text h1 {
@@ -2187,6 +2187,7 @@
                                                                                                                                                 .about-button a {
                                                                                                                                                     font-size: 2rem;
                                                                                                                                                     margin-bottom: 60%;
+                                                                                                                                                  border-radius:10px;
                                                                                                                                                 }
                                                                                                                                                 .contain {
                                                                                                                                                     margin-top: 10%;
@@ -2437,6 +2438,7 @@
                                                                                                                                                 .main .about-button a {
                                                                                                                                                     font-size: 15px;
                                                                                                                                                     padding: 5px;
+                                                                                                                                                  border-radius:10px;
                                                                                                                                                 }
                                                                                                                                                 .about-content p {
                                                                                                                                                     font-size: 15px;
