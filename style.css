@@ -130,7 +130,7 @@
                                                                                                                                                 height: 0;
                                                                                                                                                 width: 350px;
                                                                                                                                                 background: black;
-                                                                                                                                                backdrop-filter: blur(15px);
+                                                                                                                                               
                                                                                                                                                 border-radius: 10px;
                                                                                                                                                 z-index: 100;
                                                                                                                                                 overflow: hidden;
