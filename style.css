@@ -22,6 +22,7 @@
                                                                                                                                                 overflow-y: scroll;
                                                                                                                                                 width: 100%;
                                                                                                                                                 height: 100%;
+                                                                                                                                            overflow:auto;
                                                                                                                                                 scroll-snap-align: start;
                                                                                                                                             white-space: nowrap;
                                                                                                                                             }
