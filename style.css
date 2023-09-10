@@ -15,14 +15,19 @@
                                                                                                                                                 --text-color: #ffffff;
                                                                                                                                                 --main-color: #000080;
                                                                                                                                             }
-                                                                                                                                            
+                                                                                                                                            * Add this code for WordPress */ 
+                                                                                                                                            html,
+                                                                                                                                            body{
+                                                                                                                                            width:100%;
+                                                                                                                                            overflow-x:hidden;
+                                                                                                                                               }
                                                                                                                                             html {
-                                                                                                                                                font-size: 62.5%;
-                                                                                                                                                overflow-x: hidden;
-                                                                                                                                                overflow-y: scroll;
+                                                                                                                                            font-size: 62.5%;
+                                                                                                                                               
+                                                                                                                                                
                                                                                                                                                 width: 100%;
                                                                                                                                                 height: 100vh;
-                                                                                                                                                scroll-snap-type: x mandatory;
+                                                                                                                                                scroll-snap-type: y proxa;
                                                                                                                                                 scroll-snap-align: start;
                                                                                                                                             
                                                                                                                                             }
