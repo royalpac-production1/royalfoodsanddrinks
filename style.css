@@ -18,12 +18,8 @@
                                                                                                                                           /* Add this code for WordPress */ 
                                                                                                                                             html,
                                                                                                                                             body{
-                                                                                                                                            width:100%;
-                                                                                                                                          height :auto;
-                                                                                                                                            scroll-snap-type: y proximity ;
-                                                                                                                                           scroll-snap-type: x mandatory ;
-                                                                                                                                            scroll-snap-align: start;
-                                                                                                                                            overflow-x:hidden;
+                                                                                                                                         overflow-x: hidden
+                                                                                                                                        overflow-y: scroll;
                                                                                                                                                }
                                                                                                                                             html {
                                                                                                                                             font-size: 62.5%;
