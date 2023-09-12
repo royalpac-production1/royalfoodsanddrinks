@@ -19,6 +19,10 @@
                                                                                                                                             html,
                                                                                                                                             body{
                                                                                                                                             width:100%;
+                                                                                                                                          height :auto;
+                                                                                                                                            scroll-snap-type: y proximity ;
+                                                                                                                                           scroll-snap-type: x mandatory ;
+                                                                                                                                            scroll-snap-align: start;
                                                                                                                                             overflow-x:hidden;
                                                                                                                                                }
                                                                                                                                             html {
@@ -27,14 +31,12 @@
                                                                                                                                                 
                                                                                                                                                 width: 100%;
                                                                                                                                                 height: 100vh;
-                                                                                                                                                scroll-snap-type: y proximity ;
-                                                                                                                                                scroll-snap-align: start;
+
+
                                                                                                                                             
                                                                                                                                             }
                                                                                                                                             
                                                                                                                                             body {
-                                                                                                                                                overflow-x: hidden;
-                                                                                                                                                overflow-y: scroll;
                                                                                                                                                 margin: 0;
                                                                                                                                                 padding: 0;
                                                                                                                                                 width: 100%;
