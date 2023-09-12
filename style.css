@@ -20,6 +20,7 @@
                                                                                                                                             body{
                                                                                                                                          overflow-x: hidden
                                                                                                                                         overflow-y: scroll;
+                                                                                                                                            scroll-snap-type: x mandatory;
                                                                                                                                                }
                                                                                                                                             html {
                                                                                                                                             font-size: 62.5%;
