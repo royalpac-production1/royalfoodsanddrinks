@@ -18,7 +18,8 @@
                                                                                                                                           /* Add this code for WordPress */ 
                                                                                                                                             html,
                                                                                                                                             body{
-                                                                                                                                         overflow-x: hidden
+                                                                                                                                          width:100%;
+                                                                                                                                         overflow-x: hidden;
                                                                                                                                         overflow-y: scroll;
                                                                                                                                             scroll-snap-type: x mandatory;
                                                                                                                                                }
