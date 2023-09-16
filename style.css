@@ -1850,12 +1850,7 @@
                                                                                                                                             }
                                                                                                                                             
                                                                                                                                             @media (max-width:991px) {
-                                                                                                                                                html {
-                                                                                                                                                    overflow-x: hidden;
-                                                                                                                                                    overflow-y: scroll;
-                                                                                                                                                    width: 100%;
-                                                                                                                                                    height: 100%;
-                                                                                                                                                }
+                                                                                                                                                
                                                                                                                                                 .products-content {
                                                                                                                                                     width: 100%;
                                                                                                                                                 }
