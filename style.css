@@ -1723,11 +1723,7 @@
                                                                                                                                                 }
                                                                                                                                             }
                                                                                                                                             
-                                                                                                                                            @media (min-height: 991px) {
-                                                                                                                                                html {
-                                                                                                                                                    height: 100vh;
-                                                                                                                                                }
-                                                                                                                                            }
+                                                                                                                                            
                                                                                                                                             
                                                                                                                                             @media (max-width: 1430px) {
                                                                                                                                                 .about img {
